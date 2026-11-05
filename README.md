@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou a Eduarda Brito 👋
 
-<!--
-**eduardafialhobritto-prog/eduardafialhobritto-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Sobre Mim
+Sou estudante de *Sistemas de Informação* na Cruzeiro do Sul (UDF) com foco em desenvolvimento de software, gestão de dados e solução de problemas através da tecnologia. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduando em *Sistemas de Informação*
+- 🔭 Atualmente estudando: *Desenvolvimento Web e Banco de Dados*
+- 💬 Me pergunte sobre: *SQL e Git*
+- 📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/eduarda-brito24) | [E-mail](eduardafialhobritto@gmail.com)
+
+---
+
+## 📚 O que estou estudando
+
+- 💻 *Lógica de Programação & Algoritmos*
+- 🗄️ *Bancos de Dados Relacionais* 
+- 🤖 *Ferramentas & IA no Desenvolvimento*
+- 🌐 *Desenvolvimento Web*
+
+---
+
+### 🛠️ Minhas Habilidades Técnicas
+
+*Linguagens & Web:*
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+*Bancos de Dados:*
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+*Ferramentas:*
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
